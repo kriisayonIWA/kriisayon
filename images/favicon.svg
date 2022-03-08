@@ -1,0 +1,18 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_201_14)">
+<rect width="180" height="180" fill="#11141B"/>
+<path d="M105.89 137L70.5334 96.1236V137H55.5498V45.6523H70.5334V87.3174L106.021 45.6523H124.816L85.1228 91.3919L125.473 137H105.89Z" fill="#10E04C"/>
+<rect x="139.23" y="14.1536" width="14.7692" height="137.026" fill="#10E04C"/>
+<rect x="26" y="14.1536" width="14.7692" height="137.026" fill="#10E04C"/>
+<rect x="26" y="165.948" width="14.7692" height="128" transform="rotate(-90 26 165.948)" fill="#10E04C"/>
+<rect x="109.692" y="14.1536" width="14.7692" height="25.4359" fill="#10E04C"/>
+<rect x="55.5383" y="14.1536" width="14.7692" height="25.4359" fill="#10E04C"/>
+<rect x="109.692" y="28.9231" width="14.7692" height="44.3077" transform="rotate(-90 109.692 28.9231)" fill="#10E04C"/>
+<rect x="40.7688" y="28.9231" width="14.7692" height="29.5385" transform="rotate(-90 40.7688 28.9231)" fill="#10E04C"/>
+</g>
+<defs>
+<clipPath id="clip0_201_14">
+<rect width="180" height="180" fill="white"/>
+</clipPath>
+</defs>
+</svg>
